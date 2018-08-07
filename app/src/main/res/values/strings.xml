@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EECS1022 W18 Lab 5: Extended Bank
+Application</string>
+    <string-array name="spinner">
+        <item>Deposit</item>
+        <item>Withdraw</item>
+        <item>Transfer</item>
+    </string-array>
+</resources>
